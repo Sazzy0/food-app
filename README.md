@@ -1,3 +1,3 @@
 # React food-app
-A dummy REACT food-app made for fun!
+A dummy REACT food-app
 
